@@ -181,7 +181,7 @@ const ContactSection = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Wrench" size={32} />
-                <span className="text-2xl font-bold">ТехСервис</span>
+                <span className="text-2xl font-bold">Ремонт полуприцепов</span>
               </div>
               <p className="text-gray-300">
                 Профессиональный ремонт и обслуживание коммерческого транспорта
@@ -206,7 +206,7 @@ const ContactSection = () => {
           </div>
 
           <div className="border-t border-white/20 pt-8 text-center text-gray-300">
-            <p>&copy; 2024 ТехСервис. Все права защищены.</p>
+            <p>&copy; 2024 Ремонт полуприцепов. Все права защищены.</p>
           </div>
         </div>
       </footer>
