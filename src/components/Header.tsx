@@ -12,7 +12,7 @@ const Header = ({ scrollToSection }: HeaderProps) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Wrench" className="text-primary" size={32} />
-            <span className="text-2xl font-bold text-accent">Ремонт полуприцепов</span>
+            <span className="text-2xl font-bold text-accent">Ремонт Прицепов</span>
           </div>
           <nav className="hidden md:flex gap-8">
             <button onClick={() => scrollToSection('home')} className="text-gray-700 hover:text-primary transition-colors font-medium">
