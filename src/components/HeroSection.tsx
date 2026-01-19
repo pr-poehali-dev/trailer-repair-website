@@ -17,7 +17,7 @@ const HeroSection = ({ scrollToSection }: HeroSectionProps) => {
                 <span className="text-primary block mt-2">с выездом к вам</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                Профессиональное техническое обслуживание полуприцепов, китайских тягачей и спецтехники. Работаем быстро, качественно и с гарантией.
+                Профессиональный ремонт прицепов/полуприцепов, плановое ТО китайских тягачей и спецтехники. Работаем быстро, качественно и с гарантией.
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button onClick={() => scrollToSection('call-master')} size="lg" className="text-lg px-8 py-6">
